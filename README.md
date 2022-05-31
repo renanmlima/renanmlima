@@ -1,3 +1,5 @@
+<image src="https://github.com/renanmlima/renanmlima/blob/main/WELCOME.png">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
