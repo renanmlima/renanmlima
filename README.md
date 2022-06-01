@@ -19,7 +19,7 @@
 <div style="display: inline_block" align="center">
 <a href="https://www.linkedin.com/in/renan-lima-3287b317b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 <a href="https://www.instagram.com/renan_mmlima/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
-<a href="renanmslimabrasil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>          
+<a href="mailto:renanmslimabrasil@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>          
 </div>
  
 
