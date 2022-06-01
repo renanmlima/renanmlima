@@ -27,4 +27,4 @@
   <img align="center" alt="Renan-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Renan-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </div>
-  <img align="center" alt="Renan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/csharp-original.svg"> </div>
+
