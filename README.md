@@ -8,8 +8,8 @@
  
 <div style="display: incline_block" align="center">
   <a href="https://github.com/renanmlima">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmlima&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmlima&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmlima&layout=compact&langs_count=7&theme=yeblu"/>
 </div> 
   
  </p> 
@@ -27,3 +27,4 @@
   <img align="center" alt="Renan-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Renan-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </div>
+  <img align="center" alt="Renan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/csharp-original.svg"> </div>
