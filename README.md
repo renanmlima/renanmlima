@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Amvian Automotive - IT Trainee
 - 🌱 I’m currently learning C#, Python, HTML, CSS in Centro Universitário UNIFAAT
--    Skills with graphic design tools 
+- ✒️ Skills with graphic design tools 
 - 🎮 Harcore Gamer
 
  
