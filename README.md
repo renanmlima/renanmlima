@@ -11,7 +11,7 @@
 <div style="display: incline_block" align="center">
   <a href="https://github.com/renanmlima">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmlima&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmlima&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="140em" style="border-radius: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmlima&layout=compact&langs_count=7&theme=yeblu"/>
 </div> 
   
  </p> 
