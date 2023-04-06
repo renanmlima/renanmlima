@@ -1,11 +1,11 @@
 <image src="https://github.com/renanmlima/renanmlima/blob/main/Welcome_renanmlima.png">
 
-### Hi there 👋
+### Iae 👋
 
-- 🔭 I’m currently working in Joins Tecnologia - Developer Trainee
-- 🌱 I’m currently learning C#, Python, HTML, CSS in Centro Universitário UNIFAAT
-- ✒️ Skills with graphic design tools 
-- 🎮 Harcore Gamer
+- 🔭 Atualmente trabalho na Joins Tecnologia, como Estagiário de Sistemas
+- 🌱 Estou estudando .NET C#, HTML, CSS e SQL no <a href="https://www.instagram.com/cpugaussatibaia">Cursinho Gauss</a>,<a href="https://www.alura.com.br/"> Alura</a> e  na Universidade <a href="https://www.unifaat.com.br/">UNIFAAT</a>
+- ✒️ Possuo bons conhecimentos em Design Gráfico
+- 🎮 Harcore Gamer 
 
  
 <div style="display: incline_block" align="center">
