@@ -2,7 +2,7 @@
 
 ### Iae 👋
 
-- 🔭 Atualmente trabalho na Joins Tecnologia, sou Analista Jr
+- 🔭 Atualmente trabalho na Joins Tecnologia como Consultor de Sistemas Totvs
 - 🌱 Estou estudando .NET C#, HTML, CSS e SQL no <a href="https://www.instagram.com/cpugaussatibaia">Cursinho Gauss</a>,<a href="https://www.alura.com.br/"> Alura</a> e  na Universidade <a href="https://www.unifaat.com.br/">UNIFAAT</a>
 - ✒️ Possuo bons conhecimentos em Design Gráfico
 - 🎮 Harcore Gamer 
